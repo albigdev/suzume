@@ -1,4 +1,4 @@
-import SignupForm from "../features/authentication/SignupForm";
+import SignupForm from "../features/authentication/SignUpForm";
 import styled from "styled-components";
 import Logo from "../ui/Logo";
 
