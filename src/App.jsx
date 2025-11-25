@@ -4,7 +4,7 @@ import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import { Toaster } from "react-hot-toast";
 
 import AppLayout from "./ui/AppLayout";
-import Drivinghistory from "./pages/drivinghistory";
+import Drivinghistory from "./pages/Drivinghistory";
 import Dashboard from "./pages/Dashboard";
 import { BulkEditorProvider } from "./features/bulkeditor/BulkEditorContext";
 import Login from "./pages/Login";
