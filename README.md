@@ -112,7 +112,7 @@ Create a `.env` file:
 
 ## 📁 Folder Structure
 
-    susume/
+    suzume/
     │
     ├── contexts/
     ├── public/
